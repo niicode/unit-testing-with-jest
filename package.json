@@ -1,0 +1,22 @@
+{
+  "name": "unit-testing-with-jest",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niicode/unit-testing-with-jest.git"
+  },
+  "author": "niicode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niicode/unit-testing-with-jest/issues"
+  },
+  "homepage": "https://github.com/niicode/unit-testing-with-jest#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
